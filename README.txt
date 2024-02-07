@@ -6,13 +6,13 @@ I know this is quite sloppy and there are some bugs I can't replicate or don't k
 what would be common mistakes, but I'm sure I have missed some.
 
 It is helpful to understand how the game of Craps works to understand what the program is trying to do. I will put a
-description for those that don't play craps at the end of the README. I know the code is really sloppy, but it seems
+description for those that don't play craps at the end of the README. I know the code can be improved, but it seems
 to get the job done. It allows a single player to determine how much money they would like to play with, bet on the
 Pass Line or Don't Pass Line and make standard bets on the numbers. I would like to incorporate a GUI, multiple players
 and also the ability to make more bets in the future.
 
 I could use some tips on how to make my code more concise, better ways to write it or any bugs that are found so that I
-can try to improve the program. I don't know much on how GitHub works for messages/commenting so reddit might be the
+can try to improve the program. I don't know to use GitHub for messages/commenting so reddit might be the
 easiest way (You probably came from reddit anyway).
 
 
